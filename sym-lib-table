@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mic-module-rev-symbols)(type Legacy)(uri ${KIPRJMOD}/mic-module-rev-symbols.lib)(options "")(descr ""))
+)
